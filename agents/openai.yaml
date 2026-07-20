@@ -1,0 +1,7 @@
+interface:
+  display_name: "Surgical Coding and Debug"
+  short_description: "Evidence-first coding and debug workflow."
+  default_prompt: "Use $surgical-coding-debug to investigate and implement this change efficiently."
+
+policy:
+  allow_implicit_invocation: true
